@@ -1,0 +1,8 @@
+Çay,10
+Kahve,15
+Su,5
+Tost,30
+Makarna,60
+Pizza,75
+Limonata,25
+Yumurta,20
